@@ -1,4 +1,4 @@
-car="마이바흐"p
+car="마이바흐"
 
 def forward():
     return '전진합니다.'
